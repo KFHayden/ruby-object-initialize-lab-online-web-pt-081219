@@ -8,4 +8,4 @@ class Person
   end
 end
 
-"Beyonce" = Dog.new
+"Beyonce" = Person.new
